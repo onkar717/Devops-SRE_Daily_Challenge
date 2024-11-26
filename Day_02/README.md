@@ -57,6 +57,6 @@ Using the provided JSON file, implement the following:
 
 ### Example Outputs  
 
-![2.](Day_02/Output/Day_02_Output.png)
+![1.](https://github.com/onkar717/Devops-SRE_Daily_Challenge/blob/main/Day_02/Output/Day_02_Output.png)
 
 ---
