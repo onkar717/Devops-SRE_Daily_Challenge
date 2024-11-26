@@ -57,5 +57,6 @@ Using the provided JSON file, implement the following:
 
 ### Example Outputs  
 
-![2.](/home/onkar/Desktop/Material/Devops_Sre_Mega_Challenge/Day_02/Output/Day_02_Output.png)
+![2.](Day_02/Output/Day_02_Output.png)
+
 ---
